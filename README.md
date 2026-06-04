@@ -42,8 +42,6 @@ This project focuses on **testing those risks**.
 
 ## 🏗️ System Architecture
 
-## 🏗️ System Architecture
-
 ```text
 Customer Question
 │
