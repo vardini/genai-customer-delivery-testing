@@ -42,6 +42,9 @@ This project focuses on **testing those risks**.
 
 ## 🏗️ System Architecture
 
+## 🏗️ System Architecture
+
+```text
 Customer Question
 │
 ▼
@@ -66,5 +69,5 @@ Response Validators
 ├── Hallucination Detection
 ├── Semantic Similarity
 └── Safety & Tone
-
+```
 
